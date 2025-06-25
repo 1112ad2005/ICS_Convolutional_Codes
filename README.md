@@ -25,3 +25,7 @@ Here is the all informaiton related to the project.
  convolution code.
  Compare the simulation results of SDD and HDD with their respective analysis results
  for all the three convolution codes mentioned above.
+
+-- Simulation result:
+
+![image](https://github.com/user-attachments/assets/9858f5e0-5c9b-4a20-a5ad-a060eddfb63e)
